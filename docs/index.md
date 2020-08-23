@@ -1,25 +1,25 @@
 ---
 home: true
-heroImage: /hero.png
-heroText: Hero 标题
-tagline: Hero 副标题
-actionText: 快速上手 →
-actionLink: /routes/
+heroImage: /images/logo.png
+heroText: Matter.js
+tagline: 用 JavaScript 编写的 2D 物理引擎。
+actionText: v 0.4.12 →
+actionLink: /routes/Engine
 meta:
   - name: description
-    content: 模板
+    content: Matter.js 是用 JavaScript 编写的 2D 物理引擎。
   - name: keywords
-    content: 关键词, 关键词
+    content: matter.js, 物理引擎, js, physical engine, layaAir, 效果
   - name: feversion
-    content: 版本号
+    content: v 0.4.12
   - name: fetags
-    content: "[{'kind': 'node'}, {'kind':'js', 'text': 'js'}]"
+    content: "[{'kind': 'iconjs', 'text', 'js'}, {'kind':'js', 'text': 'js'}]"
 features:
-  - title: 简洁至上
-    details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
-  - title: Vue驱动
-    details: 享受 Vue + webpack 的开发体验，在 Markdown 中使用 Vue 组件，同时可以使用 Vue 来开发自定义主题。
+  - title: 轻量级
+    details: 压缩版仅有 87 KB。
+  - title: 物理引擎
+    details: 它是一个计算机程序，使用质量、速度、摩擦力和空气阻力等变量，模拟了一个近似真实的物理系统，为刚性物体赋予真实的物理效果，比如重力、旋转和碰撞等效果，让物体的行为表现的更加趋向真实。
   - title: 高性能
-    details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
-footer: MIT Licensed | Translated By 大笑
+    details: 性能和功能方面不逊色于 box2D 。
+footer: MIT Licensed | Developed By liabru | Translated By 大笑
 ---
