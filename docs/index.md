@@ -13,7 +13,7 @@ meta:
   - name: feversion
     content: v 0.4.12
   - name: fetags
-    content: "[{'kind': 'iconjs', 'text', 'js'}, {'kind':'js', 'text': 'js'}]"
+    content: "[{'kind':'iconhtml', 'text': '浏览器'}, {'kind': 'iconjs', 'text', 'js'}]"
 features:
   - title: 轻量级
     details: 压缩版仅有 87 KB。
