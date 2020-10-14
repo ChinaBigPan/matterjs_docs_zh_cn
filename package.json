@@ -1,7 +1,7 @@
 {
-  "name": "vuepress-template",
-  "version": "1.0.2",
-  "description": "",
+  "name": "matterjs-docs-zh-cn",
+  "version": "0.4.12",
+  "description": "Matter.js 是用 JavaScript 编写的 2D 物理引擎。",
   "main": "index.js",
   "author": "大笑 <daguogxp@qq.com>",
   "scripts": {
